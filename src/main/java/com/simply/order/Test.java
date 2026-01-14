@@ -11,7 +11,7 @@ public class Test {
 
     @GetMapping("/test")
     public String hello() {
-        return "This is customer-service!";
+        return "This is order-service!";
     }
 
 }
